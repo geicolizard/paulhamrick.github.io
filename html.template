@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>$pagetitle$</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="/main.css">
+		<link rel="stylesheet" href="/code.css">
+		<meta name="description" content="$desc$">
+		<link rel="icon" href="/favicon.svg">
+	</head>
+	<body>
+		<nav>
+			<a class="nav nav-home" href="/">Dennis Chen</a>
+			<a class="nav nav-link" href="/math">Math</a>
+			<a class="nav nav-link" href="/writing">Writing</a>
+			<a class="nav nav-link" href="/code">Code</a>
+		</nav>
+		<main>
+			<h1>$pagetitle$</h1>
+$body$
+		</main>
+		<footer>
+			<div>
+				<a href="/faq">FAQ</a> |
+				<a href="https://gitlab.com/chennisden/dennisc.net">Source Code</a> |
+				<a href="/publickey.txt">PGP Key</a>
+			</div>
+			<div>
+				<a href="mailto:dchen@dennisc.net">dchen@dennisc.net</a>
+			</div>
+		</footer>
+	</body>
+</html>
