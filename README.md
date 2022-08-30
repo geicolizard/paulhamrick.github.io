@@ -1,1 +1,1 @@
-Website of Paul Hamrick
+This is the source for Paul Hamrick's website.
