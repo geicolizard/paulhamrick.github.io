@@ -10,10 +10,10 @@
 	</head>
 	<body>
 		<nav>
-			<a class="nav nav-home" href="/">Dennis Chen</a>
+			<a class="nav nav-home" href="/">About</a>
 			<a class="nav nav-link" href="/math">Math</a>
-			<a class="nav nav-link" href="/writing">Writing</a>
-			<a class="nav nav-link" href="/code">Code</a>
+			<a class="nav nav-link" href="/writing">Resources</a>
+			<a class="nav nav-link" href="/code">Writing</a>
 		</nav>
 		<main>
 			<h1>$pagetitle$</h1>
@@ -21,12 +21,9 @@ $body$
 		</main>
 		<footer>
 			<div>
-				<a href="/faq">FAQ</a> |
-				<a href="https://gitlab.com/chennisden/dennisc.net">Source Code</a> |
-				<a href="/publickey.txt">PGP Key</a>
 			</div>
 			<div>
-				<a href="mailto:dchen@dennisc.net">dchen@dennisc.net</a>
+				<a href="mailto:paulahamrick@gmail.com">paulahamrick@gmail.com</a>
 			</div>
 		</footer>
 	</body>
