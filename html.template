@@ -12,8 +12,8 @@
 		<nav>
 			<a class="nav nav-home" href="/">About</a>
 			<a class="nav nav-link" href="/math">Math</a>
-			<a class="nav nav-link" href="/writing">Resources</a>
-			<a class="nav nav-link" href="/code">Writing</a>
+			<a class="nav nav-link" href="/resources">Resources</a>
+			<a class="nav nav-link" href="/writing">Writing</a>
 		</nav>
 		<main>
 			<h1>$pagetitle$</h1>
